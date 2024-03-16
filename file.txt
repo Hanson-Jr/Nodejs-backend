@@ -1,0 +1,7 @@
+First_Name: Edidiong
+Last_Name: Hanson
+Other_Name: Okon
+
+Then FullName: Edidiong Okon Hanson.
+
+I Promise myself not to complaint again. I will work hard to become Javascript Experties in future to come. 
